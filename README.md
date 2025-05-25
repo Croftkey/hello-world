@@ -1,3 +1,3 @@
 # hello-world
 Training
-THis is a test
+This is a test
